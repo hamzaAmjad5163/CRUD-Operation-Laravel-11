@@ -6,7 +6,7 @@ This repository contains a simple implementation of **CRUD** (Create, Read, Upda
 ![Screenshot 2024-11-13 153236](https://github.com/user-attachments/assets/dd6c007f-5722-4e80-8dac-40babb92980d)
 
 - **Read**: List all products with an option to view individual product details.
-![Screenshot 2024-11-13 160441](https://github.com/user-attachments/assets/50a25be7-6abe-47d0-9609-4fc91aa5e83e)
+![Screenshot 2024-11-13 160400](https://github.com/user-attachments/assets/2e9e9419-74fb-4d54-a567-a803ccd76156)
 
 - **Update**: Edit existing product details, including name, SKU, price, description, and image.
 ![Screenshot 2024-11-13 160419](https://github.com/user-attachments/assets/81d582ed-2d27-4380-aa7a-1ff682824ba1)
